@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/The-Cooker/static/css/main.0833fe91.css",
+    "main.js": "/The-Cooker/static/js/main.d64ae2bc.js",
+    "static/js/453.d92cf65d.chunk.js": "/The-Cooker/static/js/453.d92cf65d.chunk.js",
+    "static/media/demo_img.jpg": "/The-Cooker/static/media/demo_img.4cf8a2ce8a95a0787a6a.jpg",
+    "index.html": "/The-Cooker/index.html",
+    "main.0833fe91.css.map": "/The-Cooker/static/css/main.0833fe91.css.map",
+    "main.d64ae2bc.js.map": "/The-Cooker/static/js/main.d64ae2bc.js.map",
+    "453.d92cf65d.chunk.js.map": "/The-Cooker/static/js/453.d92cf65d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0833fe91.css",
+    "static/js/main.d64ae2bc.js"
+  ]
+}
